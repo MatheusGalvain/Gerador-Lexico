@@ -1,0 +1,137 @@
+body{
+    font-family: 'Righteous', cursive;
+    background-color: #E1E2DC;
+    
+}
+h3{
+    position: absolute;
+    bottom: -15px;
+    color: white;
+}
+footer{
+    background-color: #2A2A2A !important;
+    border-top: #C5C2B5 solid 5px !important;
+
+}
+
+.div-nav-edit{
+    background-color: #2A2A2A !important;
+    border-bottom: #C5C2B5 solid 5px !important;
+    height: 4.5rem;
+    
+    
+}
+
+input{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-radius: 2px !important;
+    border-bottom: #6987B0 solid 2px !important;
+}
+
+
+.container-edit{
+    margin-top: 0px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    flex-wrap: wrap;
+    padding-top: 1rem;
+}
+.text-edit{
+    color: #1a1a1a;
+    font-size: 1.5rem;
+}
+
+.div-validate{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.table-edit{
+    
+    width: 95%;
+}
+.form-edit{
+    width: 70%;
+}
+
+.edit-table-palav{
+    padding-right: 10px;
+    border: none !important;
+}
+
+.btn-adc{
+    margin-top: 10px;
+    background-color: #BEB8A2;
+    color: black !important;
+    border: #B8B4A5 solid 1px;
+    border-radius: 15px !important;
+    cursor: pointer;
+}
+
+.btn-adc:hover{
+    color: black !important;
+    background-color: #9dee67;
+    border: #5af062 solid 1px;
+}
+
+
+.btn-rmv{
+    margin-top: 10px;
+    background-color: #BEB8A2;
+    color: black !important;
+    border: #B8B4A5 solid 1px;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    border-radius: 15px !important;
+    cursor: pointer;
+}
+
+.btn-rmv:hover{
+    color: black !important;
+    background-color: #ee6767;
+    border: #f05a5a solid 1px;
+}
+
+.content {
+    flex: 1;
+}
+  
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+}
+
+.img-edit{
+    width: 11rem;
+}
+
+
+.text-td-q{
+    font-weight: bold;
+}
+
+.ul-edit{
+    list-style-type: none;
+    margin: 0;
+    color: white;
+}
+
+.img-edit{
+    width: 1.3rem;
+    
+}
+
+
+.link-edit{
+    color: white;
+}
+
+.link-edit:hover{
+    color: #0077d8;
+    text-decoration:none;
+}

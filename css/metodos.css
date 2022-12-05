@@ -1,0 +1,39 @@
+#inputadc {
+    margin: 5px 0;
+}
+
+#inputadc.error {
+    border: 2px solid #f06c6c !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+#inputanalisar.error{ 
+    border: 2px solid #f06c6c !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    
+}
+
+#inputanalisar.correct{
+    border: 2px solid #9cf073 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+
+#tabela-vocabulario th{
+    padding: 10px 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#tabela-vocabulario td{
+    padding: 8px 5px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 40px;
+}
